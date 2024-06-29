@@ -1,38 +1,41 @@
-.mainDivLogin,
-.mainDivReg {
+.mainDivAddP {
 	background: url(../images/WhatsApp\ Image\ 2024-06-29\ at\ 12.05.12\ PM.jpeg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
 	width: 100%;
-	height: 100vh;
+	height: 950px;
+	/* height: 100vh; */
 	/* filter: blur(8px); */
 	/* -webkit-filter: blur(8px); */
 }
-.d1 {
-	height: 30rem;
+
+.formAddP {
+	margin: 0px;
+	padding: 0px;
 }
-.d2 {
+
+.d2addP {
 	background-color: rgba(53, 53, 53, 0.871);
-	padding: 70px 100px;
+	padding: 50px 100px;
 	position: relative;
 	top: 70px;
 	border-radius: 10px;
 	color: white;
 }
-.d4 {
+.d4addP {
 	position: relative;
 	top: 130px;
 }
-.d3 {
+.d3addP {
 	width: 20rem;
 }
-.fc {
+.fcaddP {
 	background-color: rgba(255, 255, 255, 0.7);
 	border: none;
 }
 .btn1 {
-	background-color: #c08d2f !important;
+	background-color: #c08d2f;
 	font-weight: 600;
 	/* width: 120px; */
 	/* position: relative; */
@@ -41,10 +44,9 @@
 	width: 50%;
 }
 
-.btn2 {
-	background-color: #c08d2f !important;
+.btn2addP {
+	background-color: #c08d2f;
 	font-weight: 600;
-	/* width: 120px; */
-	margin-left: 25%;
 	width: 50%;
+	margin-left: 25%;
 }
